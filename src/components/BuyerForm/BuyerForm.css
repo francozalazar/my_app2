@@ -1,0 +1,17 @@
+.form {
+    margin-top:2rem;
+}
+
+.buttonForm {
+  width: auto;
+  height: 2.5rem;
+  background-color: #fdf002;
+  border-radius: 10px;
+  font-weight: bold; 
+  color: black;
+}
+
+.buttonForm:hover {
+  background-color: black;
+  color:#fdf002;
+}

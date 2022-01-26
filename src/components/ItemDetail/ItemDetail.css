@@ -1,0 +1,15 @@
+.imgDetail {
+    width: 15rem;
+    height: 18rem;
+    border-radius: 3rem;
+  }
+  
+  .button-cart {
+    width: 8rem;
+    height: 4rem;
+    background-color: #fdf002;
+    border-radius: 10px;
+    font-size: 1.3rem;
+    font-weight: bold;
+    color: black;
+  }

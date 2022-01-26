@@ -1,0 +1,42 @@
+li{
+  list-style: none;
+}
+
+.eliminarItem{
+ color:black;
+ width: 2rem;
+ height:2rem;
+}
+.eliminarItem:hover {
+ color:rgba(0, 0, 0, 0.527);
+ background-color: #fdf002;
+ border-radius: 25%;
+}
+
+.enlaceContinuar{
+font-size: 1.5rem;
+ font-weight: bold;
+ color:black;
+
+ padding: 0 10px
+}
+
+.enlaceContinuar:hover{
+ color:black;
+ background-color: #fdf002;
+ border-radius: 30px;
+}
+
+.button-vaciar {
+ width: auto;
+ height: 2.5rem;
+ background-color: #fdf002;
+ border-radius: 10px;
+ font-weight: bold;
+ color: black;
+ 
+}
+.button-vaciar:hover{
+ background-color: black;
+ color:#fdf002;
+}

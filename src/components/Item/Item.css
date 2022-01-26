@@ -1,0 +1,19 @@
+.botonDetalle {
+  background-color: #fdf002;
+  border-radius: 10px;
+}
+
+.botonLink {
+  text-decoration: none;
+  color: black;
+}
+
+.botonLink:hover {
+  color: black;
+}
+
+.imgSize {
+  width: 13rem;
+  height: 15rem;
+  margin: auto;
+}

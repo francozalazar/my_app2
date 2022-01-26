@@ -1,0 +1,65 @@
+footer{     
+    background-color: #FDF002;
+    justify-content: center;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 20px;
+    overflow: hidden;
+    padding-bottom: 50px;
+    height: 500px;
+    margin-top: 50px;
+}
+
+.redes{
+    display: flex;
+    justify-content: center;
+}
+.fooTitulo{
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 40px;
+    text-decoration: none;
+    color: black;
+
+}
+
+.copyright{
+    display: flex;
+    justify-content: center;
+    font-size: 15px;
+}
+
+.desarrollado{
+    display: flex;
+    justify-content: center;
+    font-size: 15px;
+}
+
+.newsletter{
+    display: flex;
+    justify-content: center;
+}
+
+.fooBoton{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 50px;
+}
+
+button{
+    background-color: black;
+    color: white;
+    padding: 5px;
+}
+
+.botonNews{
+    padding: 5px;
+}
+
+i{         /* LOGOS REDES*/
+    font-size: 40px;
+    text-decoration: none;
+    color: black;
+    padding: 10px
+}
